@@ -8,7 +8,6 @@ const App = () => {
       <div className="h-screen bg-zinc-900">
         {/*<UserData />*/}
         <Counter/>
-        <Counter/>
       </div>
     </React.Fragment>
   );
